@@ -1,1 +1,1 @@
-shell bacics
+shell permissions
